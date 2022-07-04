@@ -1,0 +1,15 @@
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.csproj.AssemblyReference.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.AssemblyInfoInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.AssemblyInfo.cs
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\bin\Debug\net6.0\DesignPatterns2.exe
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\bin\Debug\net6.0\DesignPatterns2.deps.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\bin\Debug\net6.0\DesignPatterns2.runtimeconfig.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\bin\Debug\net6.0\DesignPatterns2.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\bin\Debug\net6.0\DesignPatterns2.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\refint\DesignPatterns2.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\DesignPatterns2.genruntimeconfig.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatterns2\DesignPatterns2\obj\Debug\net6.0\ref\DesignPatterns2.dll
