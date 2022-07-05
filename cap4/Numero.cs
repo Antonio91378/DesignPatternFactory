@@ -1,3 +1,5 @@
+using DesignPatterns2.cap5;
+
 namespace DesignPatterns2.cap4
 {
     public class Numero : IExpressao
@@ -12,5 +14,10 @@ namespace DesignPatterns2.cap4
         {
             return this.Number;
         }
+        public void Aceita(Impressora impressora)
+        {
+            impressora.ImprimeNumero(this);
+        }
+
     }
 }

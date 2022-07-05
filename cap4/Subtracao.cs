@@ -1,3 +1,5 @@
+using DesignPatterns2.cap5;
+
 namespace DesignPatterns2.cap4
 {
     public class Subtracao : IExpressao
@@ -17,5 +19,10 @@ namespace DesignPatterns2.cap4
             double valorDireita = Direita.Avalia();
             return valorEsquerda - valorDireita;
         }
+        public void Aceita(Impressora impressora)
+        {
+            impressora.ImprimeSubtracao(this);
+        }
+
     }
 }

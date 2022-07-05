@@ -10,6 +10,10 @@ Aplicando o padrao de projeto Flyweight, implenta-se uma funcionalidade interess
 
 Aplicando o padrao de projeto Memento, que cria abstracoes com a finalidade de salvar o historico de estados de um determinado objeto.
 
-### Capitulo 4 - Design Pattern Memento
+### Capitulo 4 - Design Pattern Interpreter
 
 Aplicando o padrao de projeto Interpreter, que utiliza a logica de encadeamento de expressoes, como uma ramificacao arborea. Este Padrao é muito util a ser seguido em aplicacoes que precisem realizar calculos matematicos, ou encadeamentos que seguem uma logica de ramificacao com um metodo de analise generico. No codigo do cap4 criou-se a logica de uma calculadora.
+
+### Capitulo 5 - Design Pattern Visitor
+
+O padrao de projeto visitor é um Design Pattern que caminha muito bem com o padrao Interpreter, que possui uma arvore de expressoes e classes encadeadas, pois esse padrao consegue 'visitar' cada um desses elos que ligam as ramificacoes de uma arvore de expressoes, gerando acoes resultantes desejadas durante as passagens, no exemplo desse codigo foi criado uma impressora de expressoes matematicas, que funcionou muiito bem com o codigo anterior, a cada passagem da arvore de expressoes foi feito um print correspondente na tela, para gerar como saida um print resultante da expressao com a formatacao desejada, formatacao essa que foi estruturada com a aplicacao desse design pattern.
