@@ -12,4 +12,4 @@ Aplicando o padrao de projeto Memento, que cria abstracoes com a finalidade de s
 
 ### Capitulo 4 - Design Pattern Memento
 
-Aplicando o padrao de projeto Interpreter, que utiliza a logica de encadeamento de expressoes, como uma ramificacao arborea. Padrao muito util a ser seguido em aplicacoes que precisem realizar calculos matematicos, ou encadeamentos que seguem uma logica de ramificacao com um metodo de analise generico.
+Aplicando o padrao de projeto Interpreter, que utiliza a logica de encadeamento de expressoes, como uma ramificacao arborea. Este Padrao é muito util a ser seguido em aplicacoes que precisem realizar calculos matematicos, ou encadeamentos que seguem uma logica de ramificacao com um metodo de analise generico. No codigo do cap4 criou-se a logica de uma calculadora.

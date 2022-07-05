@@ -1,8 +1,8 @@
 namespace DesignPatterns2.cap4
 {
-    public class Subtracao : IExpressao
+    public class Multiplicacao : IExpressao
     {
-        public Subtracao(IExpressao esquerda, IExpressao direita)
+        public Multiplicacao(IExpressao esquerda, IExpressao direita)
         {
             Esquerda = esquerda;
             Direita = direita;
@@ -15,7 +15,7 @@ namespace DesignPatterns2.cap4
         {
             double valorEsquerda = Esquerda.Avalia();
             double valorDireita = Direita.Avalia();
-            return valorEsquerda - valorDireita;
+            return valorEsquerda * valorDireita;
         }
     }
 }

@@ -11,11 +11,11 @@ namespace DesignPatterns2.cap4
         public IExpressao Esquerda { get; }
         public IExpressao Direita { get; }
 
-        public int Avalia()
+        public double Avalia()
         {
-            int valorEsquerda = Esquerda.Avalia();
-            int valorDireita = Direita.Avalia();
-            return  valorEsquerda+ valorDireita ;
+            double valorEsquerda = Esquerda.Avalia();
+            double valorDireita = Direita.Avalia();
+            return valorEsquerda + valorDireita;
         }
     }
 }

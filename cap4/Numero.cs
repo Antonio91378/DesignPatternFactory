@@ -2,13 +2,13 @@ namespace DesignPatterns2.cap4
 {
     public class Numero : IExpressao
     {
-        public int Number { get; set; }
-        public Numero(int numero)
+        public double Number { get; set; }
+        public Numero(double numero)
         {
             this.Number = numero;
         }
 
-        public int Avalia()
+        public double Avalia()
         {
             return this.Number;
         }
