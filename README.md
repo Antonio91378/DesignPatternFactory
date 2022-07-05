@@ -9,3 +9,7 @@ Aplicando o padrao de projeto Flyweight, implenta-se uma funcionalidade interess
 ### Capitulo 3 - Design Pattern Memento
 
 Aplicando o padrao de projeto Memento, que cria abstracoes com a finalidade de salvar o historico de estados de um determinado objeto.
+
+### Capitulo 4 - Design Pattern Memento
+
+Aplicando o padrao de projeto Interpreter, que utiliza a logica de encadeamento de expressoes, como uma ramificacao arborea. Padrao muito util a ser seguido em aplicacoes que precisem realizar calculos matematicos, ou encadeamentos que seguem uma logica de ramificacao com um metodo de analise generico.
