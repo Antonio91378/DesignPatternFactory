@@ -17,3 +17,8 @@ Aplicando o padrao de projeto Interpreter, que utiliza a logica de encadeamento 
 ### Capitulo 5 - Design Pattern Visitor
 
 O padrao de projeto visitor é um Design Pattern que caminha muito bem com o padrao Interpreter, que possui uma arvore de expressoes e classes encadeadas, pois esse padrao consegue 'visitar' cada um desses elos que ligam as ramificacoes de uma arvore de expressoes, gerando acoes resultantes desejadas durante as passagens, no exemplo desse codigo foi criado uma impressora de expressoes matematicas, que funcionou muiito bem com o codigo anterior, a cada passagem da arvore de expressoes foi feito um print correspondente na tela, para gerar como saida um print resultante da expressao com a formatacao desejada, formatacao essa que foi estruturada com a aplicacao desse design pattern.
+Mais especificamente, cada classe, ou expressao, que compoe a arvore integrada com o padrao interpreter, deve implementar um metodo que permitira a 'visita' do Visitor, no caso desse programa em especifico, esse metodo foi chamado de 'Aceita()', e foi declarado na interface que compoe todas as classes utilizadas na arvore de expressoes.
+
+### Capitulo 6 - Design Pattern Bridge
+
+É interessante o uso desse padrao de projeto em momentos em que precisa-se dividir classes que possuem muitas responsabilidades, abstraindo-as utilizando interfaces por exemplo, sendo que essas interfaces possuem alguma dependencia/ relacao/ ponte. No exemplo desse capitulo, criou-se uma necessidade de enviar mensagens com 'n' categorias de destinatario e para 'n' tipos de envio, abstraiu-se os tipos de mensagens e de envios e relacionou-se as classes pai, que no caso foram as suas respectivas interfaces, fazendo um 'bridge' entre elas.
