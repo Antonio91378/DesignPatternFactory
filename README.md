@@ -22,3 +22,7 @@ Mais especificamente, cada classe, ou expressao, que compoe a arvore integrada c
 ### Capitulo 6 - Design Pattern Bridge
 
 É interessante o uso desse padrao de projeto em momentos em que precisa-se dividir classes que possuem muitas responsabilidades, abstraindo-as utilizando interfaces por exemplo, sendo que essas interfaces possuem alguma dependencia/ relacao/ ponte. No exemplo desse capitulo, criou-se uma necessidade de enviar mensagens com 'n' categorias de destinatario e para 'n' tipos de envio, abstraiu-se os tipos de mensagens e de envios e relacionou-se as classes pai, que no caso foram as suas respectivas interfaces, fazendo um 'bridge' entre elas.
+
+### Capitulo 7 - Design Pattern Command
+
+Uso da fila para processar varios comandos, passível de trabalhar de forma assíncrona :)
