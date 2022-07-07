@@ -1,13 +1,13 @@
 namespace DesignPatterns2.cap9
 {
-    public class FacadeSingleton
+    public class ServicoSingleton
     {
-        private static Facade facede = new Facade();
-        public Facade Instancia
+        private static Servico servico = new Servico();
+        public Servico Instancia
         {
             get
             {
-                return facede;
+                return servico;
             }
         }
     }
