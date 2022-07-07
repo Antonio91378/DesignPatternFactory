@@ -26,3 +26,7 @@ Mais especificamente, cada classe, ou expressao, que compoe a arvore integrada c
 ### Capitulo 7 - Design Pattern Command
 
 Uso da fila para processar varios comandos, passível de trabalhar de forma assíncrona :)
+
+### Capitulo 8 - Design Pattern Adapter
+
+Esse padrao tem o objetivo de adaptar recursos externos, como por exemplo bibliotecas, para a utilização mais otimizada possível, sem alterar a classe externa. Apenas criando recursos para implementala de forma facil
