@@ -30,3 +30,7 @@ Uso da fila para processar varios comandos, passível de trabalhar de forma ass�
 ### Capitulo 8 - Design Pattern Adapter
 
 Esse padrao tem o objetivo de adaptar recursos externos, como por exemplo bibliotecas, para a utilização mais otimizada possível, sem alterar a classe externa. Apenas criando recursos para implementala de forma facil
+
+### Capitulo 9 - Design Pattern Singleton e Façade
+
+O padrão singleton é bem semelhante ao padrão flyweight, porém ele é direcionado para o uso em comunhão com o padrão façade, com isso ele permite que um façade seja instanciado apenas uma vez, o tornando como uma variavel global, resolvendo o problema de instanciar vários façades. O façade se resume em criar uma abstração com a finalidade de executar uma funcionalidade com vários sistemas legado sendo utilizados, ou vários recursos externos, com isso é conseguido esconder a complexidade dos métodos e classes utilizados nas funcionalidades. Tanto o singleton e o façada são muito utilizados em sistemas antigos.
